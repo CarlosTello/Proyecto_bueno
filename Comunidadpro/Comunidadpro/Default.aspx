@@ -9,6 +9,7 @@
             <asp:GridView ID="GridView1" runat="server">
             </asp:GridView>
         </p>
+        <p class="lead">cambios</p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
 
