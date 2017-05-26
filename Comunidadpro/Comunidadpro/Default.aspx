@@ -3,7 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <h1>Comunidad &quot;Tello&quot;</h1>
+        <h1>Comunidad &quot;Tello&quot; PROYECTO 3</h1>
         <p class="lead">
             <asp:Button ID="Button1" runat="server" Text="Button" />
             <asp:GridView ID="GridView1" runat="server">
